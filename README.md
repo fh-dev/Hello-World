@@ -1,3 +1,4 @@
 # Hello-World
 just another repository
-This Rep is true
+
+In this project it's all about knotting and striking 
